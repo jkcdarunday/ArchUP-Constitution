@@ -1,2 +1,2 @@
-# ArchUP-Consti
-The constitution of Arch UP
+# ArchUP-Constitution
+The constitution of Arch UP.
